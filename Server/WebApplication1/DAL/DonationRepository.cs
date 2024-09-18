@@ -6,7 +6,7 @@ namespace WebApplication1.DAL
 {
     public class DonationRepository : IDonationRepository
     {
-        // Returns a dummy DonationDto object for the specified donationId
+        // Returns a dummy DonationModel object for the specified donationId
         public Task<DonationModel> GetDonationByIdAsync(long donationId)
         {
             return Task.FromResult(new DonationModel());
