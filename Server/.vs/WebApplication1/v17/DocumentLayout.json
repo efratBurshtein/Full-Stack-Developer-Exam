@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA-\u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\exam full stack\\Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82A9825B-B63B-46F9-9521-926B993ED365}|WebApplication1\\Server.csproj|c:\\users\\1\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA-\u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\exam full stack\\server\\webapplication1\\dal\\donationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A9825B-B63B-46F9-9521-926B993ED365}|WebApplication1\\Server.csproj|solutionrelative:webapplication1\\dal\\donationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A9825B-B63B-46F9-9521-926B993ED365}|WebApplication1\\Server.csproj|c:\\users\\1\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA-\u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\exam full stack\\server\\webapplication1\\dal\\idonationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A9825B-B63B-46F9-9521-926B993ED365}|WebApplication1\\Server.csproj|solutionrelative:webapplication1\\dal\\idonationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A9825B-B63B-46F9-9521-926B993ED365}|WebApplication1\\Server.csproj|c:\\users\\1\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA-\u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\exam full stack\\server\\webapplication1\\models\\donationmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A9825B-B63B-46F9-9521-926B993ED365}|WebApplication1\\Server.csproj|solutionrelative:webapplication1\\models\\donationmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A9825B-B63B-46F9-9521-926B993ED365}|WebApplication1\\Server.csproj|c:\\users\\1\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA-\u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\exam full stack\\server\\webapplication1\\dto\\donationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A9825B-B63B-46F9-9521-926B993ED365}|WebApplication1\\Server.csproj|solutionrelative:webapplication1\\dto\\donationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A9825B-B63B-46F9-9521-926B993ED365}|WebApplication1\\Server.csproj|c:\\users\\1\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA-\u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\exam full stack\\server\\webapplication1\\services\\resultservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A9825B-B63B-46F9-9521-926B993ED365}|WebApplication1\\Server.csproj|solutionrelative:webapplication1\\services\\resultservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A9825B-B63B-46F9-9521-926B993ED365}|WebApplication1\\Server.csproj|c:\\users\\1\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA-\u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\exam full stack\\server\\webapplication1\\services\\donationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A9825B-B63B-46F9-9521-926B993ED365}|WebApplication1\\Server.csproj|solutionrelative:webapplication1\\services\\donationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A9825B-B63B-46F9-9521-926B993ED365}|WebApplication1\\Server.csproj|c:\\users\\1\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA-\u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\exam full stack\\server\\webapplication1\\services\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A9825B-B63B-46F9-9521-926B993ED365}|WebApplication1\\Server.csproj|solutionrelative:webapplication1\\services\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A9825B-B63B-46F9-9521-926B993ED365}|WebApplication1\\Server.csproj|c:\\users\\1\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA-\u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\exam full stack\\server\\webapplication1\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A9825B-B63B-46F9-9521-926B993ED365}|WebApplication1\\Server.csproj|solutionrelative:webapplication1\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A9825B-B63B-46F9-9521-926B993ED365}|WebApplication1\\Server.csproj|c:\\users\\1\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA-\u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\exam full stack\\server\\webapplication1\\models\\donationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A9825B-B63B-46F9-9521-926B993ED365}|WebApplication1\\Server.csproj|solutionrelative:webapplication1\\models\\donationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DonationMapper.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA-\u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\exam full stack\\Server\\WebApplication1\\Models\\DonationMapper.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\DonationMapper.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA-\u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\exam full stack\\Server\\WebApplication1\\Models\\DonationMapper.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\DonationMapper.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAswCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T15:02:37.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResultService.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA-\u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\exam full stack\\Server\\WebApplication1\\Services\\ResultService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\ResultService.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA-\u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\exam full stack\\Server\\WebApplication1\\Services\\ResultService.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\ResultService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T11:44:22.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DonationDto.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA-\u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\exam full stack\\Server\\WebApplication1\\DTO\\DonationDto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DTO\\DonationDto.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA-\u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\exam full stack\\Server\\WebApplication1\\DTO\\DonationDto.cs",
+              "RelativeToolTip": "WebApplication1\\DTO\\DonationDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T15:00:16.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DonationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA-\u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\exam full stack\\Server\\WebApplication1\\DAL\\DonationRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DAL\\DonationRepository.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA-\u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\exam full stack\\Server\\WebApplication1\\DAL\\DonationRepository.cs",
+              "RelativeToolTip": "WebApplication1\\DAL\\DonationRepository.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T11:40:48.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IDonationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA-\u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\exam full stack\\Server\\WebApplication1\\DAL\\IDonationRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DAL\\IDonationRepository.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA-\u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\exam full stack\\Server\\WebApplication1\\DAL\\IDonationRepository.cs",
+              "RelativeToolTip": "WebApplication1\\DAL\\IDonationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T15:07:06.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DonationService.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA-\u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\exam full stack\\Server\\WebApplication1\\Services\\DonationService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\DonationService.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA-\u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\exam full stack\\Server\\WebApplication1\\Services\\DonationService.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\DonationService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAEMAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T10:39:47.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA-\u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\exam full stack\\Server\\WebApplication1\\Services\\Interfaces\\IEmailService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\Interfaces\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA-\u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\exam full stack\\Server\\WebApplication1\\Services\\Interfaces\\IEmailService.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\Interfaces\\IEmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T12:46:06.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA-\u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\exam full stack\\Server\\WebApplication1\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA-\u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\exam full stack\\Server\\WebApplication1\\Services\\EmailService.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\EmailService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwCEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T11:43:05.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DonationModel.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA-\u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\exam full stack\\Server\\WebApplication1\\Models\\DonationModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\DonationModel.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA-\u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\exam full stack\\Server\\WebApplication1\\Models\\DonationModel.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\DonationModel.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAwwAoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T15:00:02.631Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
