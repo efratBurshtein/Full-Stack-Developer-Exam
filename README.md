@@ -61,7 +61,6 @@ To set up and run the project locally, follow these steps:
    git clone https://github.com/efratBurshtein/Full-Stack-Developer-Exam.git
 
 2. **Install dependencies for the client-side:**
-  ```bash
     cd client
     npm install
 
@@ -69,7 +68,7 @@ To set up and run the project locally, follow these steps:
     npm start
 
 4.**set up the server-side API according to the provided guidelines (using .NET Core )**
-
+```
 
 ## Add Donation
 ![Add Donation](./Images/Add%20Donation.png)
