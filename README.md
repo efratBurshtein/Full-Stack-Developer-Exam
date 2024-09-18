@@ -51,24 +51,27 @@ The application is designed to manage donations, including adding new donations,
 
 - **Server-Side**: 
   - .NET Core
-```
+
 ## Installation
 
 To set up and run the project locally, follow these steps:
 
 1. **Clone the repository:**
+
    ```bash
    git clone https://github.com/efratBurshtein/Full-Stack-Developer-Exam.git
+Install dependencies for the client-side:
 
-2. **Install dependencies for the client-side:**
-    cd client
-    npm install
+bash
+Copy code
+cd client
+npm install
+Run the client-side application:
 
-3.**Run the client-side application:**
-    npm start
-
-4.**set up the server-side API according to the provided guidelines (using .NET Core )**
-```
+bash
+Copy code
+npm start
+Set up the server-side API according to the provided guidelines (using .NET Core).
 
 ## Add Donation
 ![Add Donation](./Images/Add%20Donation.png)
