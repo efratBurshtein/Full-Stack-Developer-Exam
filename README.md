@@ -51,7 +51,7 @@ The application is designed to manage donations, including adding new donations,
 
 - **Server-Side**: 
   - .NET Core
-
+```
 ## Installation
 
 To set up and run the project locally, follow these steps:
