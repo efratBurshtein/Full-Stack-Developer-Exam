@@ -1,5 +1,4 @@
-﻿# Full-Stack-Developer-Exam
-# Full-Stack Developer Exam
+# Full-Stack-Developer-Exam Donation management
 
 This repository contains a full-stack application developed as part of a software developer exam. The project demonstrates proficiency in both client-side and server-side development, focusing on implementing best practices and proper architecture. 
 
@@ -14,21 +13,13 @@ The application is designed to manage donations, including adding new donations,
 ### Client-Side (Frontend)
 
 - **Add Donation**: 
-  - A form for adding new donations with validation:
-    - **Name of Entity**: Allows entry in Hebrew and English only.
-    - **Donation Amount**: Accepts decimal numbers only.
-    - **Save Button**: Submits the form data and adds the donation to the list.
-
+  - A form for adding new donations with validation.
+    
 - **View Donation List**: 
-  - Displays a list of donations:
-    - **Name of Entity**: The name of the entity receiving the donation.
-    - **Donation Amount**: The amount of the donation.
-    - **Add Donation Button**: Opens the form for adding new donations.
-
+  - Displays a list of donations.
+    
 - **Edit Donation**: 
-  - Allows modification of existing donation details:
-    - **Edit Button**: Transitions the form to edit mode.
-    - **Update Button**: Saves the changes made to the donation details.
+  - Allows modification of existing donation details.
 
 ### Server-Side (Backend)
 
@@ -59,13 +50,31 @@ The application is designed to manage donations, including adding new donations,
   - Material-UI (MUI) library for styling
 
 - **Server-Side**: 
-  - .NET Core or .NET Framework for API development
+  - .NET Core
 
 ## Installation
 
 To set up and run the project locally, follow these steps:
 
 1. **Clone the repository:**
-
    ```bash
    git clone https://github.com/efratBurshtein/Full-Stack-Developer-Exam.git
+
+2. **Install dependencies for the client-side:**
+  ```bash
+    cd client
+    npm install
+
+3.**Run the client-side application:**
+  ```bash
+    npm start
+```
+4.**set up the server-side API according to the provided guidelines (using .NET Core )**
+
+
+## Add Donation
+![Add Donation](Images\Add Donation.png)
+
+### View Donation
+![View Donation](Images\View Donation.png)
+
