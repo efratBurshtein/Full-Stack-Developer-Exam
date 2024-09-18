@@ -1,4 +1,4 @@
-# Full-Stack-Developer-Exam Donation management
+# Donation management
 
 This repository contains a full-stack application developed as part of a software developer exam. The project demonstrates proficiency in both client-side and server-side development, focusing on implementing best practices and proper architecture. 
 
@@ -62,15 +62,17 @@ To set up and run the project locally, follow these steps:
    git clone https://github.com/efratBurshtein/Full-Stack-Developer-Exam.git
 Install dependencies for the client-side:
 
-bash
-Copy code
-cd client
-npm install
+  ```bash
+  Copy code
+  cd client
+  npm install
+
 Run the client-side application:
 
-bash
-Copy code
-npm start
+  bash```
+  Copy code
+  npm start
+  ```
 Set up the server-side API according to the provided guidelines (using .NET Core).
 
 ## Add Donation
