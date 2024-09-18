@@ -2,8 +2,6 @@
 
 This repository contains a full-stack application developed as part of a software developer exam. The project demonstrates proficiency in both client-side and server-side development, focusing on implementing best practices and proper architecture. 
 
-Please note that the application simulates database interactions; actual database operations are not performed.
-
 ## Project Overview
 
 The application is designed to manage donations, including adding new donations, viewing a list of donations, and editing existing donations. The project involves both client-side and server-side development, with a focus on modern libraries and technologies.
@@ -60,20 +58,19 @@ To set up and run the project locally, follow these steps:
 
    ```bash
    git clone https://github.com/efratBurshtein/Full-Stack-Developer-Exam.git
-Install dependencies for the client-side:
+2.**Install dependencies for the client-side:**
 
   ```bash
-  Copy code
-  cd client
-  npm install
-
-Run the client-side application:
-
-  bash```
-  Copy code
-  npm start
+   cd client
+   npm install
   ```
-Set up the server-side API according to the provided guidelines (using .NET Core).
+3.**Run the client-side application:**
+
+  ```bash
+   npm start
+  ```
+
+4.**Set up the server-side API according to the provided guidelines.(using .NET Core)**
 
 ## Add Donation
 ![Add Donation](./Images/Add%20Donation.png)
