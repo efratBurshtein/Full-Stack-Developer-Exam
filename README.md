@@ -66,15 +66,14 @@ To set up and run the project locally, follow these steps:
     npm install
 
 3.**Run the client-side application:**
-  ```bash
     npm start
-```
+
 4.**set up the server-side API according to the provided guidelines (using .NET Core )**
 
 
 ## Add Donation
-![Add Donation](Images\Add Donation.png)
+![Add Donation](./Images/Add%20Donation.png)
 
 ### View Donation
-![View Donation](Images\View Donation.png)
+![View Donation](./Images/View%20Donation.png)
 
